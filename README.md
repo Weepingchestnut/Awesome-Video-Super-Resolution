@@ -72,7 +72,7 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 | ------------------------------------------------------------ | ------- | ----------------------------------------------- | ------------------------------------------------------------ |
 | Deep Video Super-Resolution Network Using Dynamic Upsampling FiltersWithout Explicit Motion Compensation 🔥 | DUF     | [TensorFlow](https://github.com/yhjo09/VSR-DUF) | [CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.html) |
 | Fast Spatio-Temporal Residual Network for Video Super-Resolution | FSTRN   | [TensorFlow](https://github.com/lsmale/FSTRN)   | [CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Fast_Spatio-Temporal_Residual_Network_for_Video_Super-Resolution_CVPR_2019_paper.html), [arXiv](https://arxiv.org/abs/1904.02870) |
-| 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks | 3DSRnet | [MATLAB](https://github.com/sooyekim/3DSRnet)   | ICIP2019, arXiv](https://arxiv.org/abs/1812.09079)           |
+| 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks | 3DSRnet | [MATLAB](https://github.com/sooyekim/3DSRnet)   | ICIP2019, [arXiv](https://arxiv.org/abs/1812.09079)          |
 | Large Motion Video Super-Resolution with Dual Subnet and Multi-Stage Communicated Upsampling | DSMC    | PyTorch                                         | [AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16310/16117), [arXiv](https://arxiv.org/abs/2103.11744) |
 
 ### RCNN
