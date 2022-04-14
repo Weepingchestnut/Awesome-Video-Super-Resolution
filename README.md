@@ -9,6 +9,15 @@
 If this repository is helpful to you, please cite our [survey](https://arxiv.org/abs/2007.12928).
 
 ```
+@article{liu2022video,
+  title={Video super-resolution based on deep learning: a comprehensive survey},
+  author={Liu, Hongying and Ruan, Zhubo and Zhao, Peng and Dong, Chao and Shang, Fanhua and Liu, Yuanyuan and Yang, Linlin and Timofte, Radu},
+  journal={Artificial Intelligence Review},
+  pages={1--55},
+  year={2022},
+  publisher={Springer}
+}
+
 @article{liu2020video,
   title={Video super resolution based on deep learning: A comprehensive survey},
   author={Liu, Hongying and Ruan, Zhubo and Zhao, Peng and Dong, Chao and Shang, Fanhua and Liu, Yuanyuan and Yang, Linlin},
